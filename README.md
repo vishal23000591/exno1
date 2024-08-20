@@ -17,7 +17,6 @@ STEP 3: Remove the null values from the data
 STEP 4: Save the Clean data to the file
 
 STEP 5: Remove outliers using IQR
-![Screenshot 2024-08-20 101938](https://github.com/user-attachments/assets/44744ef0-767a-42d9-9a11-fcb19ffca287)
 
 STEP 6: Use zscore of to remove outliers
 
